@@ -1,0 +1,15 @@
+/Users/macbookair/Student-Information/Student Information/bin/Debug/net8.0/Student Information
+/Users/macbookair/Student-Information/Student Information/bin/Debug/net8.0/Student Information.deps.json
+/Users/macbookair/Student-Information/Student Information/bin/Debug/net8.0/Student Information.runtimeconfig.json
+/Users/macbookair/Student-Information/Student Information/bin/Debug/net8.0/Student Information.dll
+/Users/macbookair/Student-Information/Student Information/bin/Debug/net8.0/Student Information.pdb
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.AssemblyInfoInputs.cache
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.AssemblyInfo.cs
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.csproj.CoreCompileInputs.cache
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.sourcelink.json
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.dll
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/refint/Student Information.dll
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.pdb
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/Student Information.genruntimeconfig.cache
+/Users/macbookair/Student-Information/Student Information/obj/Debug/net8.0/ref/Student Information.dll
